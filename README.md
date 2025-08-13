@@ -25,10 +25,3 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-zelaya-40bb081b3)
 [![Email](https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago991007@gmail.com)
 
-## My GitHub Stats and Activity
-### Profile Stats
-<img alt="OgaitnaSZ's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=OgaitnaSZ&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="OgaitnaSZ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OgaitnaSZ&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-
-### Streak Stats
-![OgaitnaSZ's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=OgaitnaSZ&theme=tokyonight)
-
